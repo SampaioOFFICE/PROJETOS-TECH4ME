@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/05/04 21:51:39.000.096,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 21:52:05.000.175,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaCalculadoraMedia.dfm</Transaction>
+    <Transaction>2026/05/04 21:52:05.000.175,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaCalculadoraMedia.pas</Transaction>
+    <Transaction>2026/05/04 21:52:32.000.089,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\CalculadoraMediaProjeto1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
