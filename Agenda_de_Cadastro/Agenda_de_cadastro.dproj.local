@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026/06/23 21:01:53.419,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/06/23 21:02:43.832,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.dfm=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/06/23 21:02:43.832,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/06/23 21:03:54.256,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Agenda_de_cadastro.dproj=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/06/23 21:49:16.971,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/06/23 21:49:47.673,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaDeCadastro.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/06/23 21:49:47.673,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaDeCadastro.dfm=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/06/23 21:50:00.503,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaCadastro.dfm=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaDeCadastro.dfm</Transaction>
+    <Transaction>2026/06/23 21:50:00.503,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaCadastro.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaDeCadastro.pas</Transaction>
+  </Transactions>
+</BorlandProject>
