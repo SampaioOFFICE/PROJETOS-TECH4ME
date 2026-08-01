@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026/07/24 11:05:24.590,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 11:05:39.193,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 11:05:39.193,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.dfm=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/07/24 11:05:46.174,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Heranca.dproj=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/07/24 11:11:29.499,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 11:11:36.937,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitPessoa.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 11:17:23.350,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 11:17:35.192,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitAluno.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 11:33:58.824,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 11:34:05.094,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitProfessor.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/24 13:21:47.414,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Polimorfismo.dproj=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Heranca.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

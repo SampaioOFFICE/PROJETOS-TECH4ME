@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026/07/25 16:23:32.630,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:23:46.691,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:23:46.691,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.dfm=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/07/25 16:23:54.634,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Abstracao.dproj=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/07/25 16:30:34.835,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:30:39.649,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitPessoa.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:35:35.971,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:35:44.743,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitFuncionario.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:44:40.116,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:44:46.394,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unitautenticar.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:45:04.559,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitAutenticar.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unitautenticar.pas</Transaction>
+    <Transaction>2026/07/25 16:49:19.256,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitAutenticavel.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitAutenticar.pas</Transaction>
+    <Transaction>2026/07/25 16:55:17.398,=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/25 16:55:23.081,C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\UnitCarro.pas=C:\Users\gusta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
